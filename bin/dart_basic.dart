@@ -1,3 +1,5 @@
-void main(List<String> arguments) {
-  print('Hello world!');
-}
+void main() {
+  var username='sazzad hossain';
+  var userId=10;
+  print('Username:$username userid:$userId');
+ }
